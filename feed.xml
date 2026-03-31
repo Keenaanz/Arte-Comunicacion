@@ -3,12 +3,33 @@
     <title>Arte y Comunicacion Kenan</title>
     <link href="https://keenaanz.github.io/Arte-Comunicacion/feed.xml" rel="self" />
     <link href="https://keenaanz.github.io/Arte-Comunicacion" />
-    <updated>2026-02-24T18:03:22-05:00</updated>
+    <updated>2026-03-30T23:36:00-05:00</updated>
     <author>
         <name>Kenan Landazuri</name>
     </author>
     <id>https://keenaanz.github.io/Arte-Comunicacion</id>
 
+    <entry>
+        <title>Composición Sonora </title>
+        <author>
+            <name>Kenan Landazuri</name>
+        </author>
+        <link href="https://keenaanz.github.io/Arte-Comunicacion/composicion-sonora.html"/>
+        <id>https://keenaanz.github.io/Arte-Comunicacion/composicion-sonora.html</id>
+
+        <updated>2026-03-30T22:59:37-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Realice mi composición sonora en Reaper, para esta utilice varios audios, tome archivos de algunas de mis entregas pasadas, gustos musicales sonidos midi,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><audio loading="lazy" controls="controls" src=" https://keenaanz.github.io/Arte-Comunicacion/media/posts/4/Composicion-sonora.mp3"></audio></p>
+<p>Realice mi composición sonora en Reaper, para esta utilice varios audios, tome archivos de algunas de mis entregas pasadas, gustos musicales sonidos midi, efectos y contenido de archivo personal. El audio de los archivos futuristicos es uno y el del robo de la chica es otro diferente, los combine para que fueran sonando uno tras otro con varios cortes y partes aleatorias de inicio, medio o fin de cada audio. Mi composición es totalmente inesperada y absurda pero tiene una narracion ya que tiene un dialogo despues de otro y se acompaña con sonidos de fondo, ambiente y sonidos midi. Se puede interpretar de manera abierta porque desde que pense en esta composición supe que queria experimentar con el azar, las herramientas de la plataforma de reaper y la oportunidad de dejarme llevar sin una linea narrativa ya estipulada como en mis otras clases. Adicional, me atrevi a jugar con los efectos y sonidos que me proporcionaba reaper como lo son los sonidos midi, transiciones y sonidos poco comunes o distorcionados que se escuchan en toda la composición tanto al inicio, durante y al final. Tambien utilice muchos sonidos de ambiente cotidiano como el sonido de mi carro, las puertas de mi casa o el microondas. Añadi tambien musica, agregue una cancion de gilberto santa rosa y la mezcle con las herramientas de reaper, aparece de manera inesperada y brusca como de la nada, pero se va difuminando poco a poco mientras llega el otro audio, todo esto lo hice mediante un fade de reaper. En conclusión, disfrute muchisimo realizando esta composición y pude entender porque muchas veces las obras de arte son las que menos entendemos, porque el artista no las creas desde la intencion de viralidad, sino desde el corazon y la pasion que hay en cada una de sus obras que son como una extensión de sus sentimientos.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composicion visual en inkscape</title>
         <author>
